@@ -41,7 +41,7 @@ End Users log in to http://localhost/osTicket/ and click "Open a New Ticket." ad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Agents will then log in on the other end http://localhost/osTicket/scp/login.php Go to Admin Panel then click "Ticket" where you'll be able to see the problems as an admin. Click on the ones that are arranged to be finished in the shortest time period (SEV-A is first priority) Adjust prioties to the appropriate problems if necessary. To do so click "Priority" (normal/emergency/low/high) // click "Unassigned" (assign to appropriate agent)
+Agents will then log in on the other end http://localhost/osTicket/scp/login.php Go to Admin Panel then click "Ticket" where you'll be able to see the problems as an admin. Click on the ones that are arranged to be finished in the shortest time period (SEV-A is first priority) Adjust prioties to the appropriate problems if necessary. To do so click "Priority" (normal/emergency/low/high) // click "Unassigned" (assign to appropriate agent). click "'Default SLA" (SEV-A/SEV-B/SEV-C)
 </p>
 <br />
 
