@@ -49,6 +49,6 @@ Agents will then log in on the other end http://localhost/osTicket/scp/login.php
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Agents can further respond to end users using the text bar under "Post Reply." Agents can select a canned responses, adjust the recipient (person who will recieve the message) or send to all. If the problem hasn't been resolved then keep the ticket on "open" statis while relaying messages to end users. If the issue is cleared change the statis of the ticket and it will be removed from the "open" section and sent to the "closed" section.
 </p>
 <br />
