@@ -32,9 +32,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 <h3>Phase One</h3>
   
-![osTicket Post Installation Phase 1 - Imgur](https://github.com/PhillisEssel/ticket-lifecycle/assets/156061642/a301c412-6338-4bf4-9cea-7aa9a63a6a86)
+![osTicket-Ticketing Lifestyle Phase 1 - Imgur](https://github.com/PhillisEssel/ticket-lifecycle/assets/156061642/ebde9fe6-f440-4a2a-9449-c9ed57f8a3e7)
+
  
-<p><a href="https://imgur.com/a/DF93hdk">More</a></p>
+<p><a href="https://imgur.com/a/tCQfATt">More</a></p>
 
 </p>
 <p>
@@ -43,7 +44,12 @@ End Users log in to http://localhost/osTicket/ and click "Open a New Ticket." ad
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Phase Two</h3>
+
+![osTicket-Ticketing Lifestyle Phase 2 - Imgur](https://github.com/PhillisEssel/ticket-lifecycle/assets/156061642/ce23ab50-3283-47fb-9d8a-afc9bbef676f)
+
+<p><a href="https://imgur.com/a/dj7lAaU">More</a></p>
+
 </p>
 <p>
 Agents will then log in on the other end http://localhost/osTicket/scp/login.php Go to Admin Panel then click "Ticket" where you'll be able to see the problems as an admin. Click on the ones that are arranged to be finished in the shortest time period (SEV-A is first priority) Adjust prioties to the appropriate problems if necessary. To do so click "Priority" (normal/emergency/low/high) // click "Unassigned" (assign to appropriate agent). click "'Default SLA" (SEV-A/SEV-B/SEV-C)
@@ -51,7 +57,11 @@ Agents will then log in on the other end http://localhost/osTicket/scp/login.php
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Phase Three</h3>
+
+![osTicket-Ticketing Lifestyle Phase 3 - Imgur](https://github.com/PhillisEssel/ticket-lifecycle/assets/156061642/6353fbb0-3c51-44a4-b942-64a7e6098d57)
+<p><a href="https://imgur.com/a/1KnwHxw">More</a></p>
+
 </p>
 <p>
 Agents can further respond to end users using the text bar under "Post Reply." Agents can select a canned responses, adjust the recipient (person who will recieve the message) or send to all. If the problem hasn't been resolved then keep the ticket on "open" statis while relaying messages to end users. If the issue is cleared change the statis of the ticket and it will be removed from the "open" section and sent to the "closed" section.
