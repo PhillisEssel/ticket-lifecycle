@@ -30,7 +30,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Phase One</h3>
+  
+![osTicket Post Installation Phase 1 - Imgur](https://github.com/PhillisEssel/ticket-lifecycle/assets/156061642/a301c412-6338-4bf4-9cea-7aa9a63a6a86)
+ 
+<p><a href="https://imgur.com/a/DF93hdk">More</a></p>
+
 </p>
 <p>
 End Users log in to http://localhost/osTicket/ and click "Open a New Ticket." add your email/full name and number then select a Help Topic. The panel with expand. Input a summary of the issue under "Please Describe Your Issue" and give a detail describtion for opening the ticket.
